@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\reaktiopeli"
+		},
+		{
+			"name": "gamerelaytest",
+			"path": ".."
+		},
+		{
+			"name": "colortest",
+			"path": "..\\..\\colortest"
+		},
+		{
+			"name": "scaletest",
+			"path": "..\\..\\scaletest"
+		}
+	],
+	"settings": {}
+}
